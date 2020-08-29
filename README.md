@@ -5,3 +5,6 @@
    immediate death, such as cars and trees. The player moves in the direction of swipe.
 3. Designed the environment (creating the smart terrain, road prefabs), programmed the character movement, jump animation and collision
    detection as well as created the Start Menu, Score User Interface and Game Over menu screen.
+
+# Credits
+[Amazing Udemy Course by Yohann Taieb] (https://www.udemy.com/course/unity-3d-2016-build-program-publish-crossy-road-game/)
