@@ -7,4 +7,4 @@
    detection as well as created the Start Menu, Score User Interface and Game Over menu screen.
 
 # Credits
-[Amazing Udemy Course by Yohann Taieb] (https://www.udemy.com/course/unity-3d-2016-build-program-publish-crossy-road-game/)
+[Amazing Udemy Course by Yohann Taieb](https://www.udemy.com/course/unity-3d-2016-build-program-publish-crossy-road-game/)
